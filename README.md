@@ -18,3 +18,4 @@
 ## アプリアイディア（機能面）
 - ウィジェット系を使用するようなアプリ(済)
 
+[aaa](https://drive.google.com/drive/folders/1_RQYI82Agl2RcNvC8XXY-Q5K99DacfyQ?usp=sharing)
